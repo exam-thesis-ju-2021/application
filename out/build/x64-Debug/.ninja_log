@@ -1,0 +1,11 @@
+# ninja log v5
+13	413	6401069846141509	application/CMakeFiles/thesis_applicaton.dir/library/hardware.c.obj	e4965a0dcd3caf38
+29	479	6401069846401338	application/CMakeFiles/thesis_applicaton.dir/library/module_a.c.obj	cd20dc83f666584
+33	500	6401069846471294	application/CMakeFiles/thesis_applicaton.dir/library/peripheral.c.obj	b6c81b9f236d8c1
+9	516	6401069846601211	application/CMakeFiles/thesis_applicaton.dir/library/peripherals/divide_by_half.c.obj	1eb43a23d6509d5c
+23	517	6401069846970991	application/CMakeFiles/thesis_applicaton.dir/library/peripherals/multiply_by_two.c.obj	f6e78c65447207f2
+2	518	6401069847270802	application/CMakeFiles/thesis_applicaton.dir/main.c.obj	3b25eecf524616c1
+480	706	6401069849499412	application/CMakeFiles/thesis_applicaton.dir/library/peripherals/power_of_two.c.obj	fe0dbe7eeb801fa1
+500	711	6401069849479425	application/CMakeFiles/thesis_applicaton.dir/library/peripherals/square_root.c.obj	b3a704976652a8e4
+430	757	6401069850019092	application/CMakeFiles/thesis_applicaton.dir/library/peripherals.c.obj	74f456d4c554bd1c
+757	2001	6401069861851745	application/thesis_applicaton.exe	a060441ba8e7e7d4
